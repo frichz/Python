@@ -1,0 +1,7 @@
+x = 0
+if x == 3:
+    print 'x  es igual a 3'
+else:
+    print 'x NO es igual a 3'
+     
+print 'ya lo tienes!!!'
