@@ -1,0 +1,31 @@
+BOOLEANOS
+
+Los valores True Y False  son solamente instacias de la clase bool --> puesto que bool es una subclase del tipo int o entero
+lo que quiere decir:
+que los valores son 0 y 1 respectivamente casi en todos los contextos.
+
+>>> int (True)
+0
+>>> int (False)
+1
+
+EJEMPLOS:
+
+>>> bool (1)
+True
+
+>>> bool (0)
+False
+
+>>> bool ("")   
+False ---> cadenas vacias son falsas.
+
+>>> bool ("hola!")
+True ---> cadenas no vacias son verdaderas
+
+>>> not True
+False
+
+>>> not False
+True
+----------------------------------------------------------------------------------------
