@@ -1,0 +1,44 @@
+COMPARACIONES
+
+Existen varios operadores de comparacion entre ellos 
+
+--> operador == --> evalua valores iguales.
+ejemplos:
+>>> 5==6
+False
+>> "hola"==4
+False
+>>> 7==7
+True
+
+--> operadores != --> evalua valores distintos.
+>>> 10!=8
+True
+>>> "hola" != False -->puesto que toda cadena no vacia es verdadera.
+True 
+
+--> operador > --> evalua si el primer valor es mayor.
+>>> 5>6
+False
+>>>6>5
+True
+
+--> operador < --> evalua si el primer numero es menor.
+>>> 4<6
+True
+>>>6<5
+False
+
+--> operador >= --> evalua si valor primer valor es mayor ó igual que el segundo.
+>>> 5>=5
+True
+>>>10 >= 21
+False
+
+--> operador <= --> evalua si el primer valor es menor ó igual que el segundo.
+>>> 5<=5
+True
+>>> 15 <= 7
+False
+-------------------------------------------------------------------------------------------------------------
+
