@@ -1,0 +1,29 @@
+SENTENCIA IF 
+
+if 1==1 :
+    print ("eres un programador!!!")
+>>> Salida
+eres un programador!!!
+----------------------------------------------------------------------------------
+a=3
+if a < 5 :
+  print("el numero es menor a 5")
+  if a > 1 :
+    print ("el numero es mayor a 1 ")
+    if a==3:
+      print ("el numero es 3")
+
+>>> Salida
+el numero es menor a 5
+el numero es mayor a 1 
+el numero es 3
+----------------------------------------------------------------------------------
+edad = 20
+if edad >= 18:
+  print ("es mayor de edad")
+  
+>>> salida
+es mayor de edad
+----------------------------------------------------------------------------------
+ahora ya dominas la sentencia if --> sigue adelante!!!
+
